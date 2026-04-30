@@ -1,12 +1,9 @@
 # Dependencies
 node_modules/
-frontend/node_modules/
 
 # Build outputs
 dist/
-frontend/dist/
 build/
-frontend/build/
 
 # Environment variables
 .env
@@ -15,7 +12,6 @@ frontend/build/
 
 # Vite cache
 .vite/
-frontend/.vite/
 
 # Editor directories and files
 .vscode/
